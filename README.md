@@ -101,6 +101,12 @@ em vez de observar cada elemento isoladamente.
 
 ---
 
+## 🕸️ Modelo do Grafo
+
+<img width="800" height="400" alt="ChatGPT Image 12 de ago  de 2026, 15_52_56" src="https://github.com/user-attachments/assets/6c6ff067-38b7-408c-9fac-c26482ab3187" />
+
+---
+
 ## 🏗️ Pipeline Analítico
 
 ```text
