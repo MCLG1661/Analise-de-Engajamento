@@ -378,3 +378,5 @@ GitHub: MCLG1661
 
 LinkedIn: Marcus Guedes
 
+⭐ Graph Analytics aplicado a Marketing: transformando conexões em insights de negócio.
+
