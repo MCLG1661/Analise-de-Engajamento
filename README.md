@@ -1,4 +1,4 @@
-# 📱 Análise de Engajamento - Instagram Lifestyle
+# 📱 Análise de Engajamento
 
 *Análise de engajamento e influência com Neo4j, Cypher e Python*
 
